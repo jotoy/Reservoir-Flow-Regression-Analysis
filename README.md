@@ -6,4 +6,4 @@
 
 预测可视化：
 
-![1502](/data/LSTM/1502/1502_S62_K10_look_ahead48_n_hidden64_batch_size64_MSE0.0022_RMSE0.047.jpg)
+![1502](/data/LSTM/1502/1502_S62_K10_look_ahead48_n_hidden64_batch_size64_MSE0.0022_RMSE0.047.jpg"15年第二季度预测结果")
